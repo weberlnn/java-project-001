@@ -7,7 +7,7 @@ public class App {
 
         Tank t1 = new Tank();
         Tank t2 = new Tank();
-        t1.level = 9;
+        t1.level = 7;
         t2.level = 47;
 
         System.out.println("1：t1.level: " + t1.level +
